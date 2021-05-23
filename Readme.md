@@ -4,4 +4,5 @@ In this part the focus shifts towards the backend: that is, towards implementing
 ## Part 3 - Programming a server with NodeJS and Express
 **a** - Node.js and Express <br>
 **b** - Deploying app to internet <br>
+**c** - Saving data to MongoDB <br>
 **d** - ESLint <br>
