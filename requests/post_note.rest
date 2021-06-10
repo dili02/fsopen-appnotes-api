@@ -2,8 +2,9 @@ POST http://localhost:3001/api/notes HTTP/1.1
 content-type: application/json
 
 {
-    "content": "GET and POST are the most important methods of HTTP protocol",
-    "important": true
+    "content": "User id of other note",
+    "important": true,
+    "userId": "60c20d5afbecaf38b47b9014"
 }
 
 ###
