@@ -15,3 +15,4 @@ In this part, we will continue our work on the backend. Our first major theme wi
 **a** - Structure of backend application, introduction to testing <br>
 **b** - Testing the backend <br>
 **c** - User administration <br>
+**d** - Token authentication <br>

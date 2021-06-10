@@ -13,3 +13,13 @@ content-type: application/json
 
 {
 }
+
+###
+POST http://localhost:3001/api/notes HTTP/1.1
+Content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3QiLCJpZCI6IjYwYzIwZDVhZmJlY2FmMzhiNDdiOTAxNCIsImlhdCI6MTYyMzM1MDE3OX0.8mnrN0D1EBJsx29a1HG7SaC9VVTHWx5Fik3ct6ZW3r4
+
+{
+    "content": "User id of other note",
+    "important": true
+}
